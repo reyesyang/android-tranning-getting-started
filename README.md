@@ -1,4 +1,4 @@
-android-tranning-getting-start
+Android official traning: Getting Started
 ==============================
 
-Android official traning: Getting Start
+Self study traning based on [Android official traning: Getting Stared](http://developer.android.com/training/index.html)
